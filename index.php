@@ -134,4 +134,10 @@
 				</div>
             </section>
         </main>
-        <?php include 'footer.php'; ?>   
+                <footer>
+            <p>
+                July 2024 Aaron Perkel
+            </p>
+        </footer>
+    </body>
+</html>   
