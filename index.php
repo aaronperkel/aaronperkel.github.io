@@ -31,13 +31,13 @@
         <link rel="apple-touch-icon" sizes="16x16" href="img/apple-touch-icon.png">
         <link rel="icon" href="img/favicon.ico">
     </head>
-    <?php
 
     <body class="index">
 
-    include 'header.php';
+    <header>
+    	<h1>Aaron Perkel</h1>
+    </header>
     include 'nav.php';
-    ?>
         <main>
             <section>
                 <h2>Home</h2>
