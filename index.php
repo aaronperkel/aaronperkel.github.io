@@ -1,4 +1,43 @@
-<?php include 'top.php'; ?>  
+<!DOCTYPE HTML>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Aaron Perkel</title>
+        <meta name="author" content="Aaron Perkel - Personal Site">
+        <meta name="description" content="
+            Welcome to the personal site of Aaron Perkel. 
+            Find projects, information about me, as well as my resume. 
+            Moving to aaronperkel.com by 01/01/26.
+        ">
+
+        <meta name="viewport" content="width=device-width, 
+        initial-scale=1.0">
+
+        <link href="css/custom.css" 
+            rel="stylesheet" 
+            type="text/css">
+
+        <link href="css/layout-tablet.css" 
+            media="(max-width:900px)" 
+            rel="stylesheet" 
+            type="text/css">
+
+        <link href="css/layout-phone.css" 
+            media="(max-width:600px)" 
+            rel="stylesheet" 
+            type="text/css">
+            
+        <link rel="apple-touch-icon" sizes="16x16" href="img/apple-touch-icon.png">
+        <link rel="icon" href="img/favicon.ico">
+    </head>
+    <?php
+
+    <body class="index">
+
+    include 'header.php';
+    include 'nav.php';
+    ?>
         <main>
             <section>
                 <h2>Home</h2>
