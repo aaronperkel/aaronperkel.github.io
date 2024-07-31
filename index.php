@@ -37,7 +37,13 @@
     <header>
     	<h1>Aaron Perkel</h1>
     </header>
-    include 'nav.php';
+	    
+    <nav>
+        <a href="/">Home</a>
+	<a href="about">About</a>
+	<a href="resume">Resume</a>
+    </nav>
+    <hr>    
         <main>
             <section>
                 <h2>Home</h2>
